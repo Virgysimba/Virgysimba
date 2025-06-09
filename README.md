@@ -1,7 +1,6 @@
-Hi I'm Virginia Onchiri 👋
+Hi, I'm Virginia Onchiri 😄
 <!-- Main content-->
 
-<p>😄 My name is Virginia Onchiri.</p>
 <p>🌱 I have experience in Python and R programming languages.</p>
 <p>:blue_heart: I am keen on learning. Currently learning Machine Learning and PCA.</p>
 <p>📚 I am an avid reader of both fiction and non fiction literature.</p>
