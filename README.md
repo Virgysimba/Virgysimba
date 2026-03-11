@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Virginia Onchiri. A polymath, if you may🙂<br><br>I'm proficient in R and Python programming languages.<br>I enjoy learning. On the journey of becoming cracked in machine learning.<br>I'm also learning touch typing. I'm getting there soon.<br>I am an avid reader of both fiction and non-fiction literature.<br>Fun fact: I am yet to be defeated in Sudoku! I also play chess with randoms evey chance I get🤣<br>
+Hi, I'm Virginia Onchiri. A polymath, if you may. <br><br>I'm proficient in R and Python programming languages.<br>I enjoy learning. On the journey of becoming cracked in machine learning.<br>I'm also learning touch typing. I'm getting there soon.<br>I am an avid reader of both fiction and non-fiction literature.<br>Fun fact: I am yet to be defeated in Sudoku! I also play chess with randoms every chance I get🤣<br>
 
 
 ## Socials:
